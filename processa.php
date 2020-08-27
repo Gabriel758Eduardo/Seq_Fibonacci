@@ -6,7 +6,8 @@
 	echo "Sequência de Fibonacci da condição de 1 a condição de $u é:
 	</br>";
 	
-	echo "0 </br> 1 </br>";
+	echo "0 </br>
+		  1 </br>";
 		  
 	for($i=1; $i<=$u-2; $i++) {
 		$t = $s + $t;
